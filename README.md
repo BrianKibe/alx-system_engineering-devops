@@ -1,1 +1,1 @@
-lists all groups
+groups
