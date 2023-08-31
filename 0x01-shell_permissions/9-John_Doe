@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 753 hello | ls -ltr hello
+chmod u+rwx | ls -ltr helloo
