@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod mkdir -m751 new_dir .
+mkdir -m751 new_dir .
