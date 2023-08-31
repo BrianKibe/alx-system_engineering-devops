@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo mkdir -m751 new_dir .
+sudo mkdir -m751 new_dir
