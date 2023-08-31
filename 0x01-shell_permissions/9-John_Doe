@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo su - ls -ltr hello
+chmod 753 ls -ltr hello
