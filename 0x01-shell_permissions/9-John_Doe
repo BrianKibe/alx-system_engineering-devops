@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltr hello
+chmod ls -ltr hello
