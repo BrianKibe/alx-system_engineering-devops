@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp -R, u=vincent g=staff . 
+chown -hR, u=vincent g=staff . 
