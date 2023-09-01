@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/lst __ls__ $pwd
+ln -n /bin/ls __ls__ _
